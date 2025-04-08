@@ -113,7 +113,7 @@ Then open your browser at: http://localhost:5000
 
 ## 📬 Author
 
-**Pravallika Katabattula**  
+**Katabattula srilakshminarasimha pravallika**  
 🔗 https://github.com/KatabattulaPravallika
 
 ---
