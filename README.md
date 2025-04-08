@@ -102,11 +102,6 @@ Then open your browser at: http://localhost:5000
 
 ---
 
-## 📸 Screenshots (Optional)
-
-_Add screenshots of Jenkins stages, console output, or running app here._
-
----
 
 ## 📚 Learning Outcome
 
